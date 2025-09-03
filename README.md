@@ -65,15 +65,12 @@ This project uses the Provider package for state management. Provider is a popul
 
 To get started with this template:
 
-1. Clone or download the repository: `git clone https://github.com/Dev-Adnani/flutter-mvvm-template.git`.
+1. Clone or download the repository: `git clone https://github.com/Marvelousahaiwe/my-flutter-mvvm-template.git`.
 2. Open the project in your preferred Flutter development environment.
 3. Run `flutter pub get` to fetch the project dependencies.
 4. Update the necessary configuration files, such as package name and app icon.
 5. Start building your application by modifying or adding files in the appropriate directories.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use it as a template for your own Flutter projects.
 
 ## Acknowledgments
 
